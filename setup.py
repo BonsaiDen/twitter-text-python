@@ -3,8 +3,8 @@ from setuptools import setup
 setup(
     name='twitter-text-python',
     version='1.0',
-    description='Tweet parser and formatter',
-    long_description=open('README.rst').read(),
+    description='A tweet parser and formatter',
+    long_description=open('README.md').read(),
     author='Ivo Wetzel',
     author_email='',
     url='http://github.com/BonsaiDen/twitter-text-python',
@@ -15,7 +15,6 @@ setup(
     install_requires=[],
     classifiers=[
         'Environment :: Web Environment',
-        # I don't know what exactly this means, but why not?
         'Intended Audience :: Developers',
         'License :: OSI Approved :: BSD License',
         'Operating System :: OS Independent',
