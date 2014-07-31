@@ -1,7 +1,8 @@
 # twitter-text-python
 
-Please note that this project is now maintained and developed by [Ian Ozsvald](https://github.com/ianozsvald). 
 
-Please file and issues and pull requests at his [fork](https://github.com/ianozsvald/twitter-text-python), which is too be considered the main repository.
+Please note that this project is now maintained and developed by [Edmond Burnett](https://github.com/edburnett). 
 
-Ian also maintains a PyPi release of the library: http://pypi.python.org/pypi/twitter-text-python/
+Please file any issues and pull requests at his [fork](https://github.com/edburnett/twitter-text-python) instead of here.
+
+There is also a actively maintained PyPi release of the library: http://pypi.python.org/pypi/twitter-text-python/
